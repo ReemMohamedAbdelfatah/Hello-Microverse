@@ -2,40 +2,45 @@
 # Hello-Microverse
 Practice GitHub flow and Linter
 
-Built With
-Html and Css
+# Built With
+Major languages: HTML5 and CSS3
+Frameworks: node.js and npm
+Technologies used: VSCode, GitHub, LightHouse
+
 Live Demo (if available)
 Live Demo Link
 
-Getting Started
+
+# Getting Started
 This is an example of how you may Practice GitHub flow and add Linter
+For clone it the repository, you should use the Code(green button) and select HTTPS or SSH(if you have SSH key) to clone it in your local machine.
 
 To get a local copy up and running follow these simple example steps.
 
-Prerequisites
-Setup
-Install
-Usage
-Run tests
-Deployment
-Authors
-👤 Author1
+# Prerequisites
+VSCode to be installed.
+GitHub account.
+Even Git Bash or VSCode Source of Control to clone it in your local machine.
+# Setup
+Linters(linters.yml; .hintrc; .stylelintrc.json) - that linters configuration for Web, HTML and CSS
+# Install
+node.js
+npm
+# Usage
+Browser
+VSCode
+GitHub
+# Run tests
+linters.yml for all of linters. (See below)
+Styelint for auto-correct CSS errors or fixing the CSS style.
+WebHint for cross-browser compatibility, speed, and to improve your Web's accessibility.
+# Deployment
+
+# The Author
+👤 Reem Mohamed
 
 GitHub: @ReemMohamedAbdelfatah
 
-
-🤝 Contributing
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the issues page.
-
-Show your support
-Give a ⭐️ if you like this project!
-
-Acknowledgments
-Hat tip to anyone whose code was used
-Inspiration
-etc
 📝 License
 This project is MIT licensed.
 
